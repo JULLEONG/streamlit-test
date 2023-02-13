@@ -3,4 +3,4 @@ streamlit_folium
 
 torch
 gluonnlp
-
+mxnet
