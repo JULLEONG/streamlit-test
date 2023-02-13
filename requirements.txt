@@ -3,9 +3,7 @@ streamlit_folium
 
 torch
 
-kobert.utils
-kobert.pytorch_kobert
-
+kobert
 transformers
-transformers.optimization
+
 
