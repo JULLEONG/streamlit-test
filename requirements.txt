@@ -2,15 +2,5 @@ folium
 streamlit_folium 
 
 torch
-torch.nn.functional
-torch.optim
-torch.utils.data
-gluonnlp
-numpy
-tqdm
-
-kobert.utils
-kobert.pytorch_kobert 
-
+kobert
 transformers
-transformers.optimization
