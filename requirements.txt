@@ -2,6 +2,7 @@ folium
 streamlit_folium
 torch
 
-mxnet==1.7.0.post2
-gluonnlp==0.10.0
+pandas
+numpy
+gluonnlp
 git+https://git@github.com/SKTBrain/KoBERT.git@master
