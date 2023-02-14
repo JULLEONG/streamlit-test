@@ -2,4 +2,5 @@ folium
 streamlit_folium
 torch
 
-gluonnlp
+gluonnlp==0.10.0
+git+https://git@github.com/SKTBrain/KoBERT.git@master
